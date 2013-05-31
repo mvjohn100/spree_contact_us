@@ -4,12 +4,12 @@ Gem::Specification.new do |s|
   s.name        = 'spree_contact_us'
   s.version     = '1.1.0'
   s.summary     = 'Reworked the contact_us gem to add a basic contact us form to Spree.'
-  s.description = 'Reworked the contact_us gem to add a basic contact us form to Spree.'
+  s.description = 'Reworked form to Spree.'
   s.required_ruby_version = '>= 1.9.2'
 
-  s.author            = 'Jeff Dutil'
-  s.email             = 'jdutil@burlingtonwebapps.com'
-  s.homepage          = 'http://github.com/jdutil/spree_contact_us'
+  s.author            = 'john'
+  s.email             = 'john@klairvoyant.com'
+  s.homepage          = 'http://github.com/mvjohn100/spree_contact_us'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
